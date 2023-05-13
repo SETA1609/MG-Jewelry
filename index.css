@@ -52,6 +52,8 @@ footer {
 }
 footer div {
   flex: 1;
+  justify-content: center;
+  text-align: center;
 }
 
 .my-article {
