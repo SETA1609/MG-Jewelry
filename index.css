@@ -40,8 +40,12 @@ ul li {
   padding-left: 10px;
   padding-right: 10px;
 }
+ul li a {
+  border-radius: 25px;
+}
 ul li a:hover {
   background-color: #FFFFF6;
+  border-radius: 25px;
 }
 
 footer {
