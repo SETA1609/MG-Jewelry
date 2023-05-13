@@ -1,0 +1,69 @@
+/* 1 color 4D487A */
+/* 2 color AB8B84 */
+/* 3 color EEDDC3 */
+/* 4 color 7F9785 */
+body {
+  margin: 3rem;
+  font-family: "Markazi Text", Serif, serif;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+header {
+  background-color: #FFFFF6;
+}
+header > image {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+  background-color: #D9D8DF;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+nav ul {
+  list-style: none;
+  text-align: center;
+  justify-content: center;
+}
+
+ul li {
+  display: inline-block;
+  font-size: 1.5em;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+ul li a:hover {
+  background-color: #FFFFF6;
+}
+
+footer {
+  display: flex;
+  background-color: #D9D8DF;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+footer div {
+  flex: 1;
+}
+
+.my-article {
+  background-color: #ABABAC;
+}
+
+.light-text {
+  color: #D9D8DF;
+}
+
+.dar-text {
+  color: #343239;
+}
+
+/*# sourceMappingURL=index.css.map */
